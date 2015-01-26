@@ -1,90 +1,90 @@
-Ŀ�ģ������ܶ��ѹ�������Ŀ�������ϴ浵��Ϊ������Ŀ��ʷ�����ϱ���
-Ϊ�˽�������΢�����и����ʵ����£���һ����ĿĿ¼��ʽ���ĵ����ܣ��������ʼ����������ۡ�
+目的：尽可能对已公布的项目进行资料存档，为将来项目历史做资料保护
+为了将来建设微信能有更优质的文章，做一个项目目录形式的文档介绍，方便在邮件中联络讨论。
 
-��Ŀǰ���γɵĳ����ϲ����������ݸ��¡�
+在目前已形成的初稿上不断添加内容更新。
 
 
 
-���壺
-���⣺��Ŀ�Ƽ�
+初稿：
+标题：项目推荐
 
 BOINC 
-Berkeley Open Infrastructure for Network Computing ������ĸ��д�����������ݴ�ѧ��������У��U.C.Berkeley��������
-���ڷֲ�ʽ�����־Ը�����ƽ̨��������������ʽ�������ƽ̨��
+Berkeley Open Infrastructure for Network Computing 的首字母缩写，由美国加州大学伯克利分校（U.C.Berkeley）开发，
+用于分布式计算和志愿计算的平台，即伯克利开放式网络计算平台。
 http://boinc.berkeley.edu/trac/wiki/VolunteerComputing
 http://equn.com/wiki/BOINC
 
-Computing for Clean Water ��ˮ���� 
-IBMȫ�������ͬ�������廪��ѧ���ϵ���Ŀ�����з���ˮƽ���о�������������Ч��ˮ���������������ˮ�ͺ�ˮ������
+Computing for Clean Water 清水计算 
+IBM全球网格大同盟与由清华大学联合的项目。进行分子水平的研究，以生产更高效的水过滤器，用于清洁水和海水淡化。
 http://www.equn.com/forum/forum-518-1.html
 
 CAS@Home 
-���й������������������ķ������֯����Ŀ��ͨ��CAS@homeƽ̨�㼯��ҹ��׵ļ�����Դ���ṩ���й���ѧԺ�Լ������о�
+由中国高能物理所计算中心发起和组织的项目，通过CAS@home平台汇集大家贡献的计算资源，提供给中国科学院以及其他研究
 
-�����Ŀ�ѧ����ʹ�á�Ŀǰƽ̨����ʽ���е�һ��Ӧ���������п�Ժ�������ĵ����ʽṹԤ����Ŀ��SCThread��������Ŀ��Ҫ
+机构的科学家们使用。目前平台上正式运行的一个应用是来自中科院计算所的蛋白质结构预测项目（SCThread），该项目主要
 
-��ͨ��ģ��ȶԵķ�ʽ����Ԥ���µĵ����ʵĽṹ����������ӷ���ˮƽ��֪�������̡�
+是通过模板比对的方式，来预测新的蛋白质的结构，帮助人类从分子水平认知生命过程。
 http://www.equn.com/wiki/CAS@home
 
-Docking@Home ��Ŀ 
-��������ѧ ����ͼ������һ��ģ����ƣ�����ҩƷ����ʵ�����֮ǰ������Ԥ������ҩЧ��
+Docking@Home 项目 
+特拉华大学 ，企图建立起一种模拟机制，在新药品用于实验测试之前，可以预测它的药效。
 http://equn.com/wiki/Docking@Home
 
-POEM@HOME �о������ʽṹ 
-����˹³������ѧԺ �����⵰���ʲ�ͬ����ṹ����Ҫ�ķ���
+POEM@HOME 研究蛋白质结构 
+卡尔斯鲁厄理工学院 ，理解蛋白质不同方面结构的重要的方法
 http://equn.com/wiki/POEM@HOME
 
-Ulm University QMC@Home �о��������۷���ʽ 
-�¹��ڶ�ķ��ѧ����Ŀ��ͼ��ȿ������ӻ�ѧ�����һ���ǳ���ǰ;�ķ��������������ؿ��巨 (QMC)
+Ulm University QMC@Home 研究量子理论方程式 
+德国乌尔姆大学，项目试图深度开发量子化学领域的一个非常有前途的方法——量子蒙特卡洛法 (QMC)
 
-World Community Grid����������Ϊ�����繲ͬ������ƻ��������繫�����񡱡�����IBM��˾���ֵ�һ����ڻ������Ĺ���
+World Community Grid，中文译名为“世界共同体网格计划”或“世界公共网格”。是由IBM公司主持的一项基于互联网的公益
 
-�Էֲ�ʽ������Ŀ����ʼ��2004��11��16�ա�����Ŀ�����Ϸֲ���������ص�־Ը�����ṩ�ļ�����Դ������һЩ��Ϊȫ����
+性分布式计算项目，开始于2004年11月16日。该项目将联合分布于世界各地的志愿者们提供的计算资源，用于一些能为全人类
 
-���������Ĵ��Ϳ�ѧ�о���Ŀ��
-World Community Grid ����֮���ǻ��� Grid.org ��ƽ̨��ģ�֮���� 2007 �꿪ʼȫ��Ǩ������Դ�� BOINC ƽ̨��World 
+带来福音的大型科学研究项目。
+World Community Grid 创立之初是基于 Grid.org 的平台搭建的，之后于 2007 年开始全面迁移至开源的 BOINC 平台。World 
 
-Community Grid �ڵײ����ƽ̨�Ļ����ϣ�Ϊ����ļ�����Ŀ�ṩ��һ�����߲�εļ���ƽ̨��
-2014��12�� ��ʼ�о� Ebola ����������
+Community Grid 在底层计算平台的基础上，为具体的计算项目提供了一个更高层次的计算平台。
+2014年12月 开始研究 Ebola 埃博拉病毒
 www.worldcommunitygrid.org
 
 
 
-վ��ͳ��:
+站点统计:
 
-42633�� ��վ http://www.equn.com/forum
-�����ˣ�equn
-��ϵ��ʽ��
-1415�� ΢����http://weibo.com/volunteercomputing
-�����ˣ�
-��ϵ��ʽ��
-79�� ���ˣ�http://zhan.renren.com/boincer
-�����ˣ��ܸ�i.noder,����i
-��ϵ��ʽ��
-47�� ���꣺http://www.douban.com/group/equn/
-�����ˣ�equn��
-��ϵ��ʽ��
-9740�� ���ǣ�http://www.guokr.com/group/141/
-�����ˣ�lydy1993
-��ϵ��ʽ��
-Facebook�� http://www.facebook.com/group.php?gid=33893593643
-�����ˣ�
-��ϵ��ʽ��
-G+�� https://plus.google.com/u/0/106246204228805793495/posts
-�����ˣ�
-��ϵ��ʽ��
-΢�Ŷ��ĺţ�volunteer_computing
-���ڽ�����
-�����ˣ�Gavin
-��ϵ��ʽ��859956006@qq.com
+42633人 主站 http://www.equn.com/forum
+负责人：equn
+联系方式：
+1415人 微博：http://weibo.com/volunteercomputing
+负责人：
+联系方式：
+79人 人人：http://zhan.renren.com/boincer
+负责人：周刚i.noder,王臻昳
+联系方式：
+47人 豆瓣：http://www.douban.com/group/equn/
+负责人：equn酱
+联系方式：
+9740人 果壳：http://www.guokr.com/group/141/
+负责人：lydy1993
+联系方式：
+Facebook： http://www.facebook.com/group.php?gid=33893593643
+负责人：
+联系方式：
+G+： https://plus.google.com/u/0/106246204228805793495/posts
+负责人：
+联系方式：
+微信订阅号：volunteer_computing
+正在建设中
+负责人：Gavin
+联系方式：859956006@qq.com
 
-��ֹ��2015��1��25��
+截止于2015年1月25日
 
 
-�ο���
+参考：
 
-־Ը����΢�Ź���ƽ̨�ڴ���Ҽ��룡
+志愿计算微信公众平台期待大家加入！
 http://www.equn.com/forum/thread-40315-1-1.html
 
-�ʼ��б��ռ���
+邮件列表收集！
 http://www.equn.com/forum/thread-39296-1-1.html
