@@ -8,10 +8,12 @@
 初稿：
 标题：项目推荐
 
+VolunteerComputing 志愿计算：志愿计算是指对人们（志愿者）为项目提供计算资源以进行分布式计算和、或贮存的协调和安排。
+http://boinc.berkeley.edu/trac/wiki/VolunteerComputing
+
 BOINC 
 Berkeley Open Infrastructure for Network Computing 的首字母缩写，由美国加州大学伯克利分校（U.C.Berkeley）开发，
 用于分布式计算和志愿计算的平台，即伯克利开放式网络计算平台。
-http://boinc.berkeley.edu/trac/wiki/VolunteerComputing
 http://equn.com/wiki/BOINC
 
 Computing for Clean Water 清水计算 
