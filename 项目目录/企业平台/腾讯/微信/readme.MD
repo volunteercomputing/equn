@@ -12,7 +12,7 @@
 转载的每篇文章有出处和链接；
 
 
-登陆地址：
+志愿计算微信公众平台登陆地址：
 https://mp.weixin.qq.com/cgi-bin/loginpage?t=wxm2-login&lang=zh_CN
 
 志愿计算微信公众平台期待大家加入！
