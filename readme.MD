@@ -18,4 +18,4 @@ equn.org
  blog wechat
 
 
-官网：www.equn.org
+官网：http://www.equn.org
