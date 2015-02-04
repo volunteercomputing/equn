@@ -7,15 +7,10 @@ equn 文档协作编辑
 
 https://github.com/volunteercomputing/equn/blob/master/项目介绍
 
-equn架构:
-
-equn.com
-
- bbs wiki
- 
-equn.org
-
- blog wechat
+equn架构:|分站|
+------|------|------
+equn.com| bbs,wiki
+equn.org| blog,wechat
 
 
 官网：http://www.equn.org
