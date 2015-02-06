@@ -22,3 +22,5 @@ equn.org| blog,wechat
 ======
 微信联系：
 <img src="http://1.equn.sinaapp.com/%E9%BB%84%E5%B8%B8%E6%96%87.png" alt="Gavin"/>
+======
+微信公众平台
