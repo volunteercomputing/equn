@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/volunteercomputing/equn.svg)](https://travis-ci.org/volunteercomputing/equn)
+
 equn 文档协作编辑
 ======
 
