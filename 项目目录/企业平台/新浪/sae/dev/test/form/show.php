@@ -1,5 +1,6 @@
-<meta http-equiv="Content-Type" content="text/php; charset=utf8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf8">
 <?php
+
 $hostname = SAE_MYSQL_HOST_M.':'.SAE_MYSQL_PORT;
 $dbuser = SAE_MYSQL_USER;
 $dbpass = SAE_MYSQL_PASS;
@@ -17,8 +18,8 @@ $result = mysql_query("SELECT * FROM Persons");
 
 echo "<table border='1'>
 <tr>
-<th>Firstname</th>
-<th>Lastname</th>
+<th>姓</th>
+<th>名</th>
 </tr>";
 
 while($row = mysql_fetch_array($result))
