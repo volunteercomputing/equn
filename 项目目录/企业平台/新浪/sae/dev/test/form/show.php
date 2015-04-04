@@ -1,3 +1,4 @@
+<meta http-equiv="Content-Type" content="text/php; charset=utf8">
 <?php
 $hostname = SAE_MYSQL_HOST_M.':'.SAE_MYSQL_PORT;
 $dbuser = SAE_MYSQL_USER;
