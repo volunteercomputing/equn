@@ -1,18 +1,18 @@
-<meta http-equiv="Content-Type" content="text/html; charset=utf8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf8">//申明编码格式
 <?php
 
 $hostname = SAE_MYSQL_HOST_M.':'.SAE_MYSQL_PORT;
 $dbuser = SAE_MYSQL_USER;
 $dbpass = SAE_MYSQL_PASS;
 $dbname = SAE_MYSQL_DB;
-$con =  mysql_connect($hostname,$dbuser,$dbpass);
+$con =  mysql_connect($hostname,$dbuser,$dbpass);//连接sql
 
 if (!$con)
   {
   die('Could not connect: ' . mysql_error());
   }
 
-mysql_select_db("app_equn", $con);
+mysql_select_db("app_equn", $con);//从sql中选择数据库
 
 $result = mysql_query("SELECT * FROM Persons");
 
