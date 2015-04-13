@@ -5,9 +5,6 @@
 需求：
 EQUN.ORG顶层设计
 
-blog LOGO:建议宽度 1000 像素。 建议高度 288 像素 
-主页 volunteercomputing.sinaapp.com
-
 2.联系项目负责人；
 需求：
 有人进行各项目的官方联络，并根据项目列出项目负责人，以便后期维护
@@ -21,26 +18,38 @@ blog LOGO:建议宽度 1000 像素。 建议高度 288 像素
 准备文章
 从2015年5月1日开始，暂定每周发布一次。
 
-活动栏目更新
+活动栏目更新维护；
 
-亿群大康栏目更新
+亿群大康栏目更新维护；
 http://mp.weixin.qq.com/s?__biz=MzA5NjQ2MjQwMA==&mid=203578693&idx=1&sn=3fae6ace048b166da0646899cd273969&scene=18#rd
 
-志愿者+栏目 新手引导
+志愿者+栏目 新手引导更新维护；
 http://mp.weixin.qq.com/s?__biz=MzA5NjQ2MjQwMA==&mid=203953711&idx=1&sn=aa14a9ac4a35ffb0aced196d5b2685f0#rd
 
-志愿者+栏目 投稿链接
+志愿者+栏目 投稿链接更新维护；
 http://mp.weixin.qq.com/s?__biz=MzA5NjQ2MjQwMA==&mid=203953475&idx=1&sn=bb6970feae5709e1cba4a59772276788#rd
 
 5.新人接待。
 需求：
-日常接待并回复EQUN网络上的新人报到贴。
+日常接待并回复EQUN网络上的新人报到贴维护。
 http://equn.com/forum/forum-526-1.html
 
 6.志愿者分级
-在志愿者+项目中 讨论志愿者如何分级
+需求：
+在志愿者+项目中 讨论志愿者如何分级；
 
-7.
-SAE开发
+7.SAE开发
 http://volunteercomputing.sinaapp.com
 http://equn.sinaapp.com
+需求：
+前端设计；
+数据库设计；
+后台设计；
+
+blog LOGO:建议宽度 1000 像素。 建议高度 288 像素 
+主页 volunteercomputing.sinaapp.com
+
+8.筹集建设资金
+EQUN发展资金；
+SAE开发资金；
+微信认证资金（300元/年）；
