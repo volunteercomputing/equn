@@ -57,8 +57,10 @@
 【北京志愿者之家】吧务整理 http://tieba.baidu.com/p/3716698666
 
 需要完善：
-||
+主站|分站|
 ------|------|------
+equn.com| bbs,wiki
+equn.org| blog,wechat
 模块导航|
 本吧名片|
 设置精品区|
