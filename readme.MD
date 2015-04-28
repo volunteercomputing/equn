@@ -1,5 +1,11 @@
 [![Build Status](https://travis-ci.org/volunteercomputing/equn.svg)](https://travis-ci.org/volunteercomputing/equn)
 
+------
+
+微信公众平台
+<img src="http://1.equn.sinaapp.com/mp.equn.jpg" alt="equn"/>
+
+------
 equn 文档协作编辑
 
 ------
@@ -30,7 +36,3 @@ equn.org| blog,wechat
 
 ------
 
-微信公众平台
-<img src="http://1.equn.sinaapp.com/mp.equn.jpg" alt="equn"/>
-
-------
