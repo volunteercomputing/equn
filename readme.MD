@@ -31,5 +31,6 @@ equn.org| blog,wechat
 ------
 
 微信公众平台
-<img src:"http://1.equn.sinaapp.com/mp.equn.jpg" alt="equn"/>
+<img src="http://1.equn.sinaapp.com/mp.equn.jpg" alt="equn"/>
+
 ------
