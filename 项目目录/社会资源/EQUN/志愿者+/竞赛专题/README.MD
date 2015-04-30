@@ -1,0 +1,1 @@
+[项目竞赛活动区](http://equn.com/forum/forum-513-1.html)
