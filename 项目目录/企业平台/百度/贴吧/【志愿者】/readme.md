@@ -9,15 +9,29 @@
 - 联系方式分类
 ---
 
-百度贴吧志愿者吧
+###百度贴吧志愿者吧
 
 [志愿者](http://tieba.baidu.com/f?ie=utf-8&kw=志愿者)
 
+---
+
 ######对已发布的贴子进行分类：
-招募类贴子为：报名，地区，联系方式等分类。
+招募类贴子为：[报名](https://github.com/volunteercomputing/equn/blob/master/%E9%A1%B9%E7%9B%AE%E7%9B%AE%E5%BD%95/%E4%BC%81%E4%B8%9A%E5%B9%B3%E5%8F%B0/%E7%99%BE%E5%BA%A6/%E8%B4%B4%E5%90%A7/%E3%80%90%E5%BF%97%E6%84%BF%E8%80%85%E3%80%91/%E6%8E%A8%E5%B9%BF/%E6%8B%9B%E5%8B%9F/2015/%E6%8A%A5%E5%90%8D%E5%88%86%E7%B1%BB/%E6%8A%A5%E5%90%8D%E5%88%86%E7%B1%BB)，[地区](https://github.com/volunteercomputing/equn/blob/master/%E9%A1%B9%E7%9B%AE%E7%9B%AE%E5%BD%95/%E4%BC%81%E4%B8%9A%E5%B9%B3%E5%8F%B0/%E7%99%BE%E5%BA%A6/%E8%B4%B4%E5%90%A7/%E3%80%90%E5%BF%97%E6%84%BF%E8%80%85%E3%80%91/%E6%8E%A8%E5%B9%BF/%E6%8B%9B%E5%8B%9F/2015/%E5%9C%B0%E5%8C%BA%E5%88%86%E7%B1%BB/%E5%9C%B0%E5%8C%BA%E5%88%86%E7%B1%BB)，[联系方式](https://github.com/volunteercomputing/equn/blob/master/%E9%A1%B9%E7%9B%AE%E7%9B%AE%E5%BD%95/%E4%BC%81%E4%B8%9A%E5%B9%B3%E5%8F%B0/%E7%99%BE%E5%BA%A6/%E8%B4%B4%E5%90%A7/%E3%80%90%E5%BF%97%E6%84%BF%E8%80%85%E3%80%91/%E6%8E%A8%E5%B9%BF/%E6%8B%9B%E5%8B%9F/2015/%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F%E5%88%86%E7%B1%BB/%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F%E5%88%86%E7%B1%BB)等分类。
+
+---
 
 ######规范发贴标题：
 建议新的相关类型的贴子规范标题。
 以【志愿者】为主标题。
 以【招募】、【外交】、【新手报到】、【时间】【地区类型】等为副标题。
+
 比如发布主题贴：【志愿者】【招募】【2015】【北京】XXX。
+
+---
+
+######规范发贴带来的好处：
+1.贴吧秩序更健康；
+
+2.吧友能快速浏览相关信息，便于查询；
+
+3.方便吧务管理；
