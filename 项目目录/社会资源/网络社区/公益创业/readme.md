@@ -1,0 +1,1 @@
+[公益创业startup for public good](http://finance.ifeng.com/news/macro/20120524/6505062.shtml)
