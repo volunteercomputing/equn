@@ -3,7 +3,7 @@
 ------
 
 #微信公众平台
-<img src="http://1.equn.sinaapp.com/mp.equn.jpg" alt="equn"/>
+<img src="" alt="equn"/>
 
 ------
 #equn 文档协作编辑
@@ -32,7 +32,7 @@ equn.org| blog,wechat
 ------
 
 #微信联系：
-<img src="http://1.equn.sinaapp.com/%E9%BB%84%E5%B8%B8%E6%96%87.png" alt="Gavin"/>
+<img src="" alt="Gavin"/>
 
 ------
 
